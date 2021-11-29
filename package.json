@@ -1,0 +1,8 @@
+{
+    "name": "micaela-cabrera",
+    "version": "1",
+    "description": "website",
+    "devDependencies": {
+        "eslint": "^6.2.2"
+    }
+}
